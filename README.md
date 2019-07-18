@@ -16,6 +16,4 @@ Run the command: python predict.py
 Input to this code are the matrix.csv files generated in step 1.
 Output of this code is the cancertype_accuracy.txt (data ensemble classification accuracy), cancertype_features.txt (important features), cancertype_graph.png (feature importance graph) files where cancertype is Breast, Lung, Kidney, Stomach, Head and Neck, Prostate, Liver and Thyroid cancer
 
-Project Members: Tamara Anne Fernandes
-                 Khushboo Korani
-                 Janhavi Karekar
+Project Members: Tamara Anne Fernandes, Khushboo Korani & Janhavi Karekar
